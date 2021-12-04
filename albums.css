@@ -37,9 +37,19 @@
 }
 footer {
 	clear: both;
+    font-size: 100%;
 
 }
 #hp  {
     float: left;    
      margin:  0 5px 0 5px;
     }
+
+body p{
+    font-size: 200%;
+    margin-left: 2rem;
+}
+nav h1{
+    font-size: 250%;
+    margin-left: 75px;
+}

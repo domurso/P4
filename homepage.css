@@ -35,6 +35,10 @@
     clear: both;
     display: block;
 }
+ nav h1{
+    font-size: 250%;
+    margin-left: 75px;
+}
 footer {
 	clear: both;
 
@@ -46,9 +50,11 @@ footer {
 h2
 {
     font-size: 100%;
+    font-weight: 200;
 
 }
 p{
     font-size: 100%;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 5px;
 }
